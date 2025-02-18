@@ -1,6 +1,6 @@
 # RFSantos
 <h1 align="center">Hi 👋, I'm Ricardo França</h1>
-<h3 align="center">Um Admirador do Python</h3>
+<h3 align="center">Um admirador do Python ...</h3>
 
 - 📫 How to reach me **r_frana@yahoo.com.br**
 
